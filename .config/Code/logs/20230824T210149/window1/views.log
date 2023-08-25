@@ -10,3 +10,11 @@
 2023-08-24 21:01:51.537 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
 2023-08-24 21:01:51.544 [info] Removed views:workbench.debug.breakPointsView,workbench.debug.callStackView,workbench.debug.watchExpressionsView,workbench.debug.variablesView from workbench.view.debug
 2023-08-24 21:01:51.546 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2023-08-24 22:27:27.794 [info] Added views:workbench.views.extensions.installed,workbench.views.extensions.popular,extensions.recommendedList in workbench.view.extensions
+2023-08-24 22:27:27.807 [info] Removed views:workbench.views.extensions.popular from workbench.view.extensions
+2023-08-24 22:27:36.279 [info] Removed views:extensions.recommendedList,workbench.views.extensions.installed from workbench.view.extensions
+2023-08-24 22:27:36.295 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions
+2023-08-24 22:28:59.686 [info] Removed views:workbench.views.extensions.marketplace from workbench.view.extensions
+2023-08-24 22:28:59.718 [info] Added views:workbench.views.extensions.installed,extensions.recommendedList in workbench.view.extensions
+2023-08-24 22:29:01.080 [info] Removed views:extensions.recommendedList,workbench.views.extensions.installed from workbench.view.extensions
+2023-08-24 22:29:01.134 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions

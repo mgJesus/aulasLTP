@@ -75,12 +75,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/aluno/Pictures/Screenshot%20from%202023-08-24%2020-56-38.png" added="2023-08-24T23:56:38Z" modified="2023-08-24T23:56:38Z" visited="2023-08-24T23:56:38.798575Z">
+  <bookmark href="file:///home/aluno/Pictures/Screenshot%20from%202023-08-24%2020-56-38.png" added="2023-08-24T23:56:38Z" modified="2023-08-24T23:56:38Z" visited="2023-08-24T23:56:38Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2023-08-24T23:56:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aluno/Pictures/Screenshot%20from%202023-08-24%2022-56-04.png" added="2023-08-25T01:56:04Z" modified="2023-08-25T01:56:04Z" visited="2023-08-25T01:56:04.739352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2023-08-25T01:56:04Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -1,1 +1,19 @@
 2023-08-24 21:01:53.373 [info] Deleted from disk ms-python.vscode-pylance /home/aluno/.vscode/extensions/ms-python.vscode-pylance-2023.5.30
+2023-08-24 22:27:59.775 [info] Getting Manifest... formulahendry.code-runner
+2023-08-24 22:27:59.792 [info] Installing extension: formulahendry.code-runner
+2023-08-24 22:28:02.032 [info] Extension signature is verified: formulahendry.code-runner
+2023-08-24 22:28:02.229 [info] Extracted extension to /home/aluno/.vscode/extensions/.75b0961f-0467-47cd-b8d4-2d5cde2319c9: formulahendry.code-runner
+2023-08-24 22:28:02.235 [info] Renamed to /home/aluno/.vscode/extensions/formulahendry.code-runner-0.12.0
+2023-08-24 22:28:02.237 [info] Extracting extension completed. formulahendry.code-runner
+2023-08-24 22:28:02.245 [info] Extension installed successfully: formulahendry.code-runner
+2023-08-24 22:29:18.732 [info] Getting Manifest... ritwickdey.liveserver
+2023-08-24 22:29:18.754 [info] Installing extension: ritwickdey.liveserver
+2023-08-24 22:29:41.740 [info] Extension signature is verified: ritwickdey.liveserver
+2023-08-24 22:29:46.005 [info] Extracted extension to /home/aluno/.vscode/extensions/.ccb73b57-0507-4dad-99e5-4070a3d07776: ritwickdey.liveserver
+2023-08-24 22:29:46.025 [info] Renamed to /home/aluno/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-08-24 22:29:46.025 [info] Extracting extension completed. ritwickdey.liveserver
+2023-08-24 22:29:46.050 [info] Extension installed successfully: ritwickdey.liveserver
+2023-08-24 23:11:37.006 [error] [uncaught exception in sharedProcess]: A system error occurred (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-24 23:20:50.874 [error] [uncaught exception in sharedProcess]: A system error occurred (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
