@@ -1,0 +1,50 @@
+*1-UPDATE
+
+sudo yum -y update
+
+*2-Ativar o repositório ELRepo
+
+sudo rpm --import https://www.elrepo.org/RPM-GPG-KEY-elrepo.org
+sudo rpm -Uvh https://www.elrepo.org/elrepo-release-7.0-3.el7.elrepo.noarch.rpm
+
+*3-Listar os kernels disponíveis
+
+yum list available --disablerepo='*' --enablerepo=elrepo-kernel
+
+*4-Instalar a nova versão do kernel do CentOS
+sudo yum --enablerepo=elrepo-kernel install kernel-ml
+
+sudo yum --enablerepo=elrepo-kernel install kernel-lt
+
+reboot
+
+*5-Definir a versão padrão do kernel
+sudo vim /etc/default/grub
+
+Depois que o arquivo abrir, procure a linha que diz GRUB_DEFAULT=X e altere-a para GRUB_DEFAULT=0
+
+sudo grub2-mkconfig -o /boot/grub2/grub.cfg
+
+reboot
+
+*Ativar placa cabeada
+
+
+A única solução que encontrei é esta:
+
+cat <<EOF| sudo tee /etc/systemd/system/load-realtek-driver.service
+[Unit]
+Description=Load Realtek drivers.
+Before=network-online.target
+    
+[Service]
+Type=simple
+ExecStartPre=/usr/sbin/rmmod r8169
+ExecStart=/usr/sbin/modprobe r8169
+  
+[Install]
+WantedBy=multi-user.target
+EOF
+    
+sudo systemctl enable load-realtek-driver.service
+

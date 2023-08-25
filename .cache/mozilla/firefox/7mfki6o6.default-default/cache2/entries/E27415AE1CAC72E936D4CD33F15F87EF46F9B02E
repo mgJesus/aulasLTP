@@ -1,0 +1,1793 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#000000">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+      <meta name="description" content="Processo Seletivo">
+    
+
+    
+      <meta property="og:title" content="Processo Seletivo - Faculdades Integradas Rio Branco" />
+      <meta name="twitter:title" content="Processo Seletivo - Faculdades Integradas Rio Branco" />
+    
+
+    
+
+    
+      <meta name="twitter:card" content="summary" />
+    
+
+    
+
+    
+      <link rel="canonical" href="https://lp.riobrancofac.edu.br/vestibular-tradicional-2024-1" />
+    
+
+    <title>Faculdades Rio Branco Granja Vianna</title>
+
+    
+    <!-- Reset Browser Styles -->
+    <style type="text/css" rel="stylesheet">
+      html, body, div, span, applet, object, iframe,
+      h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+      a, abbr, acronym, address, big, cite, code,
+      del, dfn, em, img, ins, kbd, q, s, samp,
+      small, strike, strong, sub, sup, tt, var,
+      b, u, i, center,
+      dl, dt, dd, ol, ul, li,
+      fieldset, form, label, legend,
+      table, caption, tbody, tfoot, thead, tr, th, td,
+      article, aside, canvas, details, embed,
+      figure, figcaption, footer, header, hgroup,
+      menu, nav, output, ruby, section, summary,
+      time, mark, audio, video {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+      }
+
+      article, aside, details, figcaption, figure,
+      footer, header, hgroup, menu, nav, section {
+        display: block;
+      }
+
+      body {
+        line-height: 1;
+      }
+
+      img {
+        vertical-align: middle;
+      }
+
+      ol, ul {
+        list-style: none;
+      }
+
+      blockquote, q {
+        quotes: none;
+      }
+
+      blockquote:before, blockquote:after,
+      q:before, q:after {
+        content: '';
+        content: none;
+      }
+
+      table {
+        border-collapse: collapse;
+        border-spacing: 0;
+      }
+
+      b, strong {
+        font-weight: bold;
+      }
+
+      i, em {
+        font-style: italic;
+      }
+    </style>
+
+    <!-- Bricks Main Styles -->
+    <style type="text/css" rel="stylesheet">
+      * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+
+      body {
+        background-color: #FFFFFF;
+        color: #333333;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 16px;
+        line-height: 1.42857;
+      }
+
+      h1, h2, h3, h4, h5, h6 {
+        font-family: inherit;
+        font-weight: 500;
+        line-height: 1.2;
+        color: inherit;
+      }
+
+      h1 { font-size: 41px; }
+      h2 { font-size: 34px; }
+      h3 { font-size: 28px; }
+      h4 { font-size: 20px; }
+      h5 { font-size: 16px; }
+      h6 { font-size: 14px; }
+
+      .bricks--page {
+        width: 100%;
+      }
+
+      .bricks--section {
+        width: 100%;
+      }
+
+      .bricks--section > div {
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .bricks--row {
+        display: flex;
+        flex-flow: column nowrap;
+      }
+
+      .bricks--column > div {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .bricks--component-box {
+        display: flex;
+        flex-flow: column nowrap;
+        width: 100%;
+      }
+
+      @media screen and (min-width: 768px) {
+        .bricks--row {
+          flex-flow: row nowrap;
+        }
+      }
+    </style>
+
+    <!-- Bricks Component Form Styles -->
+    <style type="text/css" rel="stylesheet">
+      .bricks-form {
+        height: auto;
+        width: 100%;
+      }
+
+      .bricks-form__fieldset {
+        display: flex;
+        flex-flow: row wrap;
+        margin-left: -5px;
+        margin-right: -5px;
+      }
+
+      .bricks-form__field {
+        display: flex;
+        width: 100%;
+        flex-grow: 1;
+        flex-direction: column;
+      }
+
+      .bricks-form__label {
+        position: relative !important;
+        display: inline-block;
+        max-width: 100%;
+        margin-bottom: 0.4em;
+        line-height: 1.25;
+        vertical-align: middle;
+      }
+
+      .bricks-form__input {
+        display: block;
+        width: 100%;
+        padding: 0 0.5em;
+        line-height: 1.42857;
+      }
+
+      .bricks-form__input.error {
+        border: 1px solid red !important;
+      }
+
+      .bricks-form__field__option .bricks-form__label {
+        padding-left: 1.33em;
+        margin-bottom: 0.2em;
+      }
+
+      .bricks-form__field__option .bricks-form__label input[type="checkbox"],
+      .bricks-form__field__option .bricks-form__label input[type="radio"] {
+        margin: 0px 0px 0px -1.33em;
+      }
+
+      .bricks-form__submit {
+        position: relative;
+      }
+    </style>
+    <link href="https://fonts.googleapis.com/css?family=Bitter|Cabin|Crimson+Text|Droid+Sans|Droid+Serif|Lato|Lobster|Montserrat|Old+Standard+TT|Open+Sans|Oswald|Pacifico|Playfair+Display|PT+Sans|Raleway|Rubik|Source+Sans+Pro|Ubuntu|Roboto" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/3.5.2/select2.min.css" rel="stylesheet" />
+
+    <!-- Bricks Static Shared Styles -->
+<style type="text/css" rel="stylesheet">
+   .bricks--component-video div {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+    line-height: 0;
+    box-sizing: border-box;
+  }
+
+   .bricks--component-video div iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+    
+
+<!-- Bricks Static Text Styles -->
+<style type="text/css" rel="stylesheet">
+
+   .bricks--component-text {
+    color: #333;
+    line-height: 1.42;
+    overflow: hidden;
+    word-wrap: break-word;
+  }
+
+   .bricks--component-text a {
+    color: #31a2ff;
+    text-decoration: none;
+  }
+
+   .bricks--component-text sub, sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+
+   .bricks--component-text sub {
+    bottom: -0.25em;
+  }
+
+   .bricks--component-text sup {
+    top: -0.5em;
+  }
+
+   .bricks--component-text ol, 
+   .bricks--component-text ul {
+    padding-left: 1.5em;
+  }
+
+   .bricks--component-text ol > li,
+   .bricks--component-text ul > li {
+    list-style-type: none;
+  }
+
+   .bricks--component-text ul > li::before {
+    content: '\2022';
+  }
+
+   .bricks--component-text li::before {
+    display: inline-block;
+    white-space: nowrap;
+    width: 1.2em;
+  }
+
+   .bricks--component-text li:not(.ql-direction-rtl)::before {
+    margin-left: -1.5em;
+    margin-right: 0.3em;
+    text-align: right;
+  }
+
+   .bricks--component-text li.ql-direction-rtl::before {
+    margin-left: 0.3em;
+    margin-right: -1.5em;
+  }
+
+   .bricks--component-text ol li:not(.ql-direction-rtl),
+   .bricks--component-text ul li:not(.ql-direction-rtl) {
+    padding-left: 1.5em;
+  }
+
+   .bricks--component-text ol li.ql-direction-rtl,
+   .bricks--component-text ul li.ql-direction-rtl {
+    padding-right: 1.5em;
+  }
+
+   .bricks--component-text ol li {
+    counter-reset: list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+    counter-increment: list-0;
+  }
+
+   .bricks--component-text ol li:before {
+    content: counter(list-0, decimal) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-1 {
+    counter-increment: list-1;
+  }
+
+   .bricks--component-text ol li.ql-indent-1:before {
+    content: counter(list-1, lower-alpha) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-1 {
+    counter-reset: list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-2 {
+    counter-increment: list-2;
+  }
+
+   .bricks--component-text ol li.ql-indent-2:before {
+    content: counter(list-2, lower-roman) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-2 {
+    counter-reset: list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-3 {
+    counter-increment: list-3;
+  }
+
+   .bricks--component-text ol li.ql-indent-3:before {
+    content: counter(list-3, decimal) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-3 {
+    counter-reset: list-4 list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-4 {
+    counter-increment: list-4;
+  }
+
+   .bricks--component-text ol li.ql-indent-4:before {
+    content: counter(list-4, lower-alpha) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-4 {
+    counter-reset: list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-5 {
+    counter-increment: list-5;
+  }
+
+   .bricks--component-text ol li.ql-indent-5:before {
+    content: counter(list-5, lower-roman) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-5 {
+    counter-reset: list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-6 {
+    counter-increment: list-6;
+  }
+
+   .bricks--component-text ol li.ql-indent-6:before {
+    content: counter(list-6, decimal) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-6 {
+    counter-reset: list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-7 {
+    counter-increment: list-7;
+  }
+
+   .bricks--component-text ol li.ql-indent-7:before {
+    content: counter(list-7, lower-alpha) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-7 {
+    counter-reset: list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-8 {
+    counter-increment: list-8;
+  }
+
+   .bricks--component-text ol li.ql-indent-8:before {
+    content: counter(list-8, lower-roman) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-8 {
+    counter-reset: list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-9 {
+    counter-increment: list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-9:before {
+    content: counter(list-9, decimal) '. ';
+  }
+
+   .bricks--component-text .ql-indent-1:not(.ql-direction-rtl) {
+    padding-left: 3em;
+  }
+
+   .bricks--component-text li.ql-indent-1:not(.ql-direction-rtl) {
+    padding-left: 4.5em;
+  }
+
+   .bricks--component-text .ql-indent-1.ql-direction-rtl.ql-align-right {
+    padding-right: 3em;
+  }
+
+   .bricks--component-text li.ql-indent-1.ql-direction-rtl.ql-align-right {
+    padding-right: 4.5em;
+  }
+
+   .bricks--component-text .ql-indent-2:not(.ql-direction-rtl) {
+    padding-left: 6em;
+  }
+
+   .bricks--component-text li.ql-indent-2:not(.ql-direction-rtl) {
+    padding-left: 7.5em;
+  }
+
+   .bricks--component-text .ql-indent-2.ql-direction-rtl.ql-align-right {
+    padding-right: 6em;
+  }
+
+   .bricks--component-text li.ql-indent-2.ql-direction-rtl.ql-align-right {
+    padding-right: 7.5em;
+  }
+
+   .bricks--component-text .ql-indent-3:not(.ql-direction-rtl) {
+    padding-left: 9em;
+  }
+
+   .bricks--component-text li.ql-indent-3:not(.ql-direction-rtl) {
+    padding-left: 10.5em;
+  }
+
+   .bricks--component-text .ql-indent-3.ql-direction-rtl.ql-align-right {
+    padding-right: 9em;
+  }
+
+   .bricks--component-text li.ql-indent-3.ql-direction-rtl.ql-align-right {
+    padding-right: 10.5em;
+  }
+
+   .bricks--component-text .ql-indent-4:not(.ql-direction-rtl) {
+    padding-left: 12em;
+  }
+
+   .bricks--component-text li.ql-indent-4:not(.ql-direction-rtl) {
+    padding-left: 13.5em;
+  }
+
+   .bricks--component-text .ql-indent-4.ql-direction-rtl.ql-align-right {
+    padding-right: 12em;
+  }
+
+   .bricks--component-text li.ql-indent-4.ql-direction-rtl.ql-align-right {
+    padding-right: 13.5em;
+  }
+
+   .bricks--component-text .ql-indent-5:not(.ql-direction-rtl) {
+    padding-left: 15em;
+  }
+
+   .bricks--component-text li.ql-indent-5:not(.ql-direction-rtl) {
+    padding-left: 16.5em;
+  }
+
+   .bricks--component-text .ql-indent-5.ql-direction-rtl.ql-align-right {
+    padding-right: 15em;
+  }
+
+   .bricks--component-text li.ql-indent-5.ql-direction-rtl.ql-align-right {
+    padding-right: 16.5em;
+  }
+
+   .bricks--component-text .ql-indent-6:not(.ql-direction-rtl) {
+    padding-left: 18em;
+  }
+
+   .bricks--component-text li.ql-indent-6:not(.ql-direction-rtl) {
+    padding-left: 19.5em;
+  }
+
+   .bricks--component-text .ql-indent-6.ql-direction-rtl.ql-align-right {
+    padding-right: 18em;
+  }
+
+   .bricks--component-text li.ql-indent-6.ql-direction-rtl.ql-align-right {
+    padding-right: 19.5em;
+  }
+
+   .bricks--component-text .ql-indent-7:not(.ql-direction-rtl) {
+    padding-left: 21em;
+  }
+
+   .bricks--component-text li.ql-indent-7:not(.ql-direction-rtl) {
+    padding-left: 22.5em;
+  }
+
+   .bricks--component-text .ql-indent-7.ql-direction-rtl.ql-align-right {
+    padding-right: 21em;
+  }
+
+   .bricks--component-text li.ql-indent-7.ql-direction-rtl.ql-align-right {
+    padding-right: 22.5em;
+  }
+
+   .bricks--component-text .ql-indent-8:not(.ql-direction-rtl) {
+    padding-left: 24em;
+  }
+
+   .bricks--component-text li.ql-indent-8:not(.ql-direction-rtl) {
+    padding-left: 25.5em;
+  }
+
+   .bricks--component-text .ql-indent-8.ql-direction-rtl.ql-align-right {
+    padding-right: 24em;
+  }
+
+   .bricks--component-text li.ql-indent-8.ql-direction-rtl.ql-align-right {
+    padding-right: 25.5em;
+  }
+
+   .bricks--component-text .ql-indent-9:not(.ql-direction-rtl) {
+    padding-left: 27em;
+  }
+
+   .bricks--component-text li.ql-indent-9:not(.ql-direction-rtl) {
+    padding-left: 28.5em;
+  }
+
+   .bricks--component-text .ql-indent-9.ql-direction-rtl.ql-align-right {
+    padding-right: 27em;
+  }
+
+   .bricks--component-text li.ql-indent-9.ql-direction-rtl.ql-align-right {
+    padding-right: 28.5em;
+  }
+
+   .bricks--component-text .ql-direction-rtl {
+    direction: rtl;
+    text-align: inherit;
+  }
+  
+</style>
+
+
+    <!-- Defines page width style to row components -->
+    <style>
+      .bricks--section > div {
+        max-width: 960px;
+      }
+    </style>
+
+    <script type="text/javascript"> </script>
+
+    
+  </head>
+  <body>
+    
+      <input type="hidden" id="ga4-measurement-id" value="G-H7CLPCPV3V">
+    
+
+    <div class="bricks--container">
+      <div class="bricks--page">
+        
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-section-joq3m2vm {
+      
+            background-image: url(https://d335luupugsy2.cloudfront.net/cms/files/320080/1620763557/$4f9uo2i8aaw), linear-gradient(to bottom, rgba(74,144,226,0) 0%, rgba(74,144,226,0) 100%);
+            background-position-x: 0%;
+            background-position-y: 0%;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+          
+      border-bottom-style: none;
+      border-color: #585858;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+    }
+
+    #rd-section-joq3m2vm > div:not(.bricks--row) {
+      min-height: 0px;
+    }
+  
+
+  
+</style>
+
+<section id="rd-section-joq3m2vm" class="bricks--section rd-section">
+  
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-row-kr54zwic {
+      min-height: 50px;
+    }
+
+    #rd-row-kr54zwic .bricks--column > div {
+      min-height: 50px;
+    }
+
+    @media screen and (max-width: 767px) {
+      #rd-row-kr54zwic.bricks--row.rd-row {
+        min-height: auto;
+      }
+    }
+  
+</style>
+
+<div id="rd-row-kr54zwic" class="bricks--row rd-row">
+  
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-column-kr550acz {
+      flex: 12 0 0;
+    }
+
+    #rd-column-kr550acz > div {
+      
+          background-color: transparent;
+        
+      justify-content: center;
+      padding-top: 0px;
+      padding-right: 10px;
+      padding-bottom: 0px;
+      padding-left: 10px;
+    }
+    @media screen and (max-width: 767px) {
+      #rd-column-kr550acz > div {
+        min-height: auto !important;
+      }
+    }
+  
+
+  
+</style>
+
+<div id="rd-column-kr550acz" class="bricks--column rd-column">
+  <div>
+    
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-box-kr550idn {
+      
+            background-image: url(https://d335luupugsy2.cloudfront.net/cms/files/320080/1620763557/$niik68dijw), linear-gradient(to bottom, rgba(74,144,226,0) 0%, rgba(74,144,226,0) 100%);
+            background-position-x: 0%;
+            background-position-y: 0%;
+            background-repeat: no-repeat;
+            background-size: initial;
+            background-attachment: scroll;
+          
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+      padding-top: 60px;
+      padding-right: 10px;
+      padding-bottom: 60px;
+      padding-left: 10px;
+      min-height: -1px;
+      margin-top: 10px;
+      margin-bottom: 0px;
+      max-width: 460px;
+      align-self: center;
+      display: flex;
+      flex-direction: column;
+    }
+  
+</style>
+
+<div id="rd-box-kr550idn" class="bricks--component bricks--component-box rd-box">
+  
+<style type="text/css" rel="stylesheet">
+  
+    #rd-text-kr5518hw {
+      display: block;
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+      min-height: auto-91px;
+      max-width: 441px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      align-self: center;
+      width: 100%;
+      word-break: break-word;
+    }
+  
+
+  
+</style>
+
+<div id="rd-text-kr5518hw" class="bricks--component bricks--component-text rd-text">
+  <p style="line-height: 2; text-align: center;"><strong style="color: rgb(255, 255, 255); font-family: Helvetica, Arial, sans-serif; font-size: 25px;">Processo Seletivo 2024/1</strong></p><p style="line-height: 2; text-align: center;"><span style="color: rgb(255, 255, 255); font-family: Helvetica, Arial, sans-serif; font-size: 25px;">Vestibular Tradicional</span></p>
+</div>
+
+
+
+</div>
+
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-box-kr551n3o {
+      
+          background-color: rgba(255,255,255,1);
+        
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+      padding-top: 10px;
+      padding-right: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+      min-height: -1px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      max-width: 460px;
+      align-self: center;
+      display: flex;
+      flex-direction: column;
+    }
+  
+</style>
+
+<div id="rd-box-kr551n3o" class="bricks--component bricks--component-box rd-box">
+  
+<style type="text/css" rel="stylesheet">
+  
+    #rd-text-kr55319o {
+      display: block;
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+      min-height: auto-103px;
+      max-width: 397px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      align-self: center;
+      width: 100%;
+      word-break: break-word;
+    }
+  
+
+  
+</style>
+
+<div id="rd-text-kr55319o" class="bricks--component bricks--component-text rd-text">
+  <p style="text-align: center;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 16px;">Inscrição no Vestibular Tradicional do</span></p><p style="text-align: center;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 16px;">Processo Seletivo 2024 - 1º semestre das</span></p><p style="text-align: center;"><strong style="font-family: Helvetica, Arial, sans-serif; font-size: 16px;">Faculdades Integradas Rio Branco Granja Vianna.</strong></p>
+</div>
+
+
+
+</div>
+
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-box-kr5542l8 {
+      
+          background-color: rgba(255,255,255,1);
+        
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+      padding-top: 10px;
+      padding-right: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+      min-height: -1px;
+      margin-top: 0px;
+      margin-bottom: 10px;
+      max-width: 460px;
+      align-self: center;
+      display: flex;
+      flex-direction: column;
+    }
+  
+</style>
+
+<div id="rd-box-kr5542l8" class="bricks--component bricks--component-box rd-box">
+  
+
+
+
+<style type="text/css" rel="stylesheet">
+  
+
+  
+    #rd-form-joq3m2vy {
+      display: flex;
+      flex-direction: column;
+      align-self: center;
+      max-width: 404px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__fieldset {
+      flex-flow: column nowrap;
+      align-items: flex-start;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__field {
+      margin-bottom: 8px;
+      padding: 0;
+      width: 100.0%;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__field.bricks-form__privacy,
+    #rd-form-joq3m2vy .bricks-form__field.bricks-form__terms {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 768px) {
+      #rd-form-joq3m2vy .bricks-form__field {
+        width: 100%;
+        padding: 0;
+      }
+    }
+
+    #rd-form-joq3m2vy .bricks-form__static {
+      color: #333333;
+      font-family: Lato, sans-serif;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: normal;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__static a {
+      color: #333333;
+      text-decoration: underline;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__label {
+      color: #333333;
+      display: inline-block;
+      font-family: Lato, sans-serif;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: normal;
+      text-align: left;
+      text-decoration: none;
+    }
+
+    #rd-form-joq3m2vy label.error {
+      color: #DC3543;
+      font-size: 12px;
+      line-height: 1.1;
+      padding: 2px 0 0 4px;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__label.always-visible,
+    #rd-form-joq3m2vy .bricks-form__field__option .bricks-form__label {
+      display: inline-block;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__input {
+      color: #555555;
+      background-color: #ffffff;
+      border-bottom-style: solid;
+      border-left-style: solid;
+      border-right-style: solid;
+      border-top-style: solid;
+      border-color: #404040;
+      border-radius: 5px;
+      border-width: 1px;
+      font-family: Lato, sans-serif;
+      font-size: 18px;
+      ;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__input::placeholder {
+      color: transparent;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__input.select2-container {
+      padding: 0 !important;
+    }
+
+    #rd-form-joq3m2vy .select2-container .select2-choice {
+      height: 40px !important;
+      line-height: 40px !important;
+
+      color: #555555 !important;
+      font-family: Lato, sans-serif !important;
+      font-size: 18px !important;
+      background: #ffffff;
+    }
+
+    #rd-form-joq3m2vy .select2-container .select2-choice .select2-arrow b {
+      background-position: 0 5px !important;
+    }
+
+    #rd-form-joq3m2vy .select2-container .select2-choice .select2-arrow {
+      background: none;
+      border: none;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__input:not(textarea) {
+      height: 40px;
+    }
+
+    #rd-form-joq3m2vy .bricks-form__submit {
+      display: flex;
+      flex-direction: column;
+    }
+
+    #rd-form-joq3m2vy .with-select-flags > .phone-input-group > .select2-container > .select2-choice {
+      border-top-right-radius: 0 !important;
+      border-bottom-right-radius: 0 !important;
+      border-style: none;
+    }
+    #rd-form-joq3m2vy .with-select-flags > .phone-input-group > .select2-container > .select2-choice > .select2-chosen {
+      margin-right: 0px;
+    }
+
+    #rd-form-joq3m2vy .with-select-flags > .phone-input-group > .select2-container > .select2-choice > .select2-chosen > .flag {
+      vertical-align: middle;
+    }
+
+    #rd-form-joq3m2vy .with-select-flags > .phone-input-group > .phone {
+      width: calc(100% - 55px);
+      display: inline-block;
+      border-top-left-radius: 0px !important;
+      border-bottom-left-radius: 0px !important;
+    }
+
+    #rd-form-joq3m2vy .with-select-flags > .phone-country {
+      display: inline-block;
+    }
+
+    #rd-form-joq3m2vy .with-select-flags > .phone-input-group {
+      display: flex;
+    }
+
+    #rd-form-joq3m2vy .with-select-flags > .phone-input-group > .phone-country {
+      width: 55px;
+      display: inline-block;
+    }
+  
+
+  
+</style>
+
+
+<div
+  id="rd-form-joq3m2vy"
+  class="bricks--component bricks-form rd-form"
+>
+  
+
+  <form
+    id="conversion-form"
+    
+    novalidate="novalidate"
+    action="https://gyruss.rdops.systems/v2/conversions"
+    data-typed-fields="1"
+    data-lang="pt-BR"
+    data-asset-action = "aHR0cHM6Ly9scC5yaW9icmFuY29mYWMuZWR1LmJyL29icmlnYWRvLXByb2Nl
+c3NvLXNlbGV0aXZvLTIwMjItMDE=
+"
+    data-ga-ua-id="UA-845052-1"
+    data-recaptcha-public-token=""
+  >
+
+    <input type="hidden" name="token_rdstation" value="d9684cb3b87e1d8f8d3d82bac2db3f14">
+    <input type="hidden" name="conversion_identifier" value="vestibular-tradicional-2024-1">
+    <input type="hidden" name="internal_source" value="2">
+    <input type="hidden" name="_rd_experiment_content_id" value="">
+    <input type="hidden" name="c_utmz" value=""/>
+    <input type="hidden" name="traffic_source" value=""/>
+    <input type="hidden" name="privacy_data[browser]" id="privacy_data_browser" />
+
+    
+
+    
+
+    <div
+  class="bricks-form__fieldset"
+  data-progressive-profiling=""
+>
+  <div class="bricks-form__field">
+  <label for="rd-text_field-l7phv1f2" class="bricks-form__label">
+    Nome*
+  </label>
+  <input
+    id="rd-text_field-l7phv1f2"
+    class="bricks-form__input required js-text js-field-name"
+    name="name"
+    type="text"
+    data-use-type="STRING"
+    placeholder="Nome *"
+    required="required"
+  >
+</div>
+<div class="bricks-form__field">
+  <label for="rd-text_field-l7phv1f3" class="bricks-form__label">
+    Nome Social
+  </label>
+  <input
+    id="rd-text_field-l7phv1f3"
+    class="bricks-form__input  js-text js-field-cf_nome_social"
+    name="cf_nome_social"
+    type="text"
+    data-use-type="STRING"
+    placeholder="Nome Social"
+    
+  >
+</div>
+<div class="bricks-form__field">
+  <label for="rd-email_field-l7phv1f4" class="bricks-form__label">
+    Email*
+  </label>
+  <input
+    id="rd-email_field-l7phv1f4"
+    class="bricks-form__input required js-email js-field-email"
+    name="email"
+    type="email"
+    data-use-type="STRING"
+    data-input-mask=""
+    placeholder="Email *"
+    required="required"
+  >
+</div>
+<div class="bricks-form__field with-select-flags">
+  <label for="rd-phone_field-l7phv1f5" class="bricks-form__label">
+    Telefone*
+  </label>
+  <div class="phone-input-group">
+    
+      <div class="form-control phone-country" data-type="countries"></div>
+      <div class="country-field" value="BR"></div>
+    
+
+    <input
+      id="rd-phone_field-l7phv1f5"
+      class="bricks-form__input required phone js-phone js-field-personal_phone"
+      name="personal_phone"
+      data-input-mask="INTERNATIONAL_MASK"
+      data-use-type="STRING"
+      type="tel"
+      placeholder="Telefone *"
+      required="required"
+    >
+  </div>
+</div>
+<div class="bricks-form__field">
+  <label for="rd-select_field-l7phv1f6" class="bricks-form__label">
+    Selecione o curso de Interesse*
+  </label>
+
+  
+  
+  <select
+    id="rd-select_field-l7phv1f6"
+    class="bricks-form__input required js-field-cf_cursos_graduacao"
+    data-use-type="STRING"
+    name="cf_cursos_graduacao"
+    required="required"
+  >
+    <option value="">
+      
+      Selecione
+    </option>
+    
+      <option value="Graduação em Administração">Graduação em Administração</option>
+    
+      <option value="Graduação em Direito">Graduação em Direito</option>
+    
+      <option value="Graduação em Relações Internacionais">Graduação em Relações Internacionais</option>
+    
+      <option value="Graduação em Sistemas de Informação">Graduação em Sistemas de Informação</option>
+    
+  </select>
+</div>  
+
+  <div class="bricks-form__field">
+    <label for="captcha" class="bricks-form__label">
+      <span id="math_expression">1 + 1 = ?</span>
+    </label>
+    <input
+      id="captcha"
+      class="bricks-form__input math rd-bricks-captcha"
+      name="captcha"
+      type="text"
+      placeholder="1 + 1 = ?"
+    >
+  </div>
+
+
+</div>
+
+
+<style type="text/css" rel="stylesheet">
+  
+    a#rd-button-joq3m2w0 {
+      display: flex;
+      flex-direction: column;
+    }
+
+    #rd-button-joq3m2w0 {
+      -ms-flex-align: center;
+      -ms-flex-direction: column;
+      -ms-flex-pack: center;
+      align-self: center;
+      background-color: rgba(62,96,192,1);
+      border-bottom-style: none;
+      border-color: transparent;
+      border-left-style: none;
+      border-radius: 1px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+      
+          box-shadow: 0px
+                      0px
+                      0px
+                      0px
+                      #cccccc;
+        ;
+      color: #ffffff;
+      cursor: pointer;
+      font-family: Ubuntu, sans-serif;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: bold;
+      height: 62px;
+      justify-content: center;
+      line-height: 1.42857;
+      margin-bottom: 0px;
+      margin-top: 10px;
+      max-width: 480px;
+      text-align: center;
+      text-decoration: none;
+      width: 100%;
+      padding-right: 10px;
+      padding-left: 10px;
+    }
+    @media screen and (max-width: 767px) {
+      #rd-button-joq3m2w0 {
+        height: auto;
+        padding-top: 0.66em;
+        padding-bottom: 0.66em;
+      }
+    }
+  
+
+  
+</style>
+
+
+
+  
+
+  <div class="bricks-form__submit">
+    <button
+      class="bricks--component bricks--component-button rd-button"
+      id="rd-button-joq3m2w0"
+    >
+      ENVIAR
+    </button>
+  </div>
+
+
+
+    <div style="position: fixed; left: -5000px">
+      <input type="text" name="emP7yF13ld" readonly autocomplete="false" tabindex="-1" value="">
+      <input type="text" name="sh0uldN07ch4ng3" readonly autocomplete="false" tabindex="-1" value="should_not_change">
+    </div>
+  </form>
+</div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/jquery.validate/1.9/jquery.validate.min.js"></script>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/jquery.form/2.02/jquery.form.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/select2/3.5.2/select2.min.js"></script>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/lead-tracking/stable/plugins/jquery.cookie.v1.4.1.min.js"></script>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/lead-tracking/stable/plugins/math.uuid.v1.4.min.js"></script>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rd/stable/rdlps.min.js?t=1684958886"></script>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rd/stable/rdlps-progressive-profiling.min.js?t=1684958886"></script>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rd/stable/rdlps-autofill.min.js?t=1684958886"></script>
+
+<script type="text/javascript">
+    var origConversionSuccess = window.conversionSuccess;
+    const lpConversionForm = document.getElementById('conversion-form')
+
+    conversionSuccess = function(resp) {
+      if (window.origConversionSuccess) window.origConversionSuccess(resp);
+
+      
+        if (!window.RDCookieControl || window.RDCookieControl.analytics.track) {
+          try { _gaq.push(['_trackPageview', '/vestibular-tradicional-2024-1/conversao']); } catch(err) { }
+          try { ga('send', 'pageview', '/vestibular-tradicional-2024-1/conversao'); } catch(err) { }
+        }
+      
+
+      
+        alert("Sua inscrição foi efetuada com sucesso! Enviaremos um e-mail com os próximos passos do Processo Seletivo das Faculdades Rio Branco Granja Vianna. ");
+      
+
+      
+
+      let redirectTo = (lpConversionForm.dataset.assetAction)
+        ? atob(lpConversionForm.dataset.assetAction)
+        : $("input[name='redirect_to']").val();
+
+      if (redirectTo.length > 0) {
+        top.location.href = redirectTo;
+      }
+    }
+</script>
+
+<script>
+  document.querySelectorAll('input[name=emP7yF13ld],input[name=sh0uldN07ch4ng3]').forEach(function(element) {
+    element.addEventListener('focus', function(e) {
+      e.target.removeAttribute('readonly');
+    });
+  });
+</script>
+
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-text-kr57w1op {
+      display: block;
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+      min-height: auto-45px;
+      max-width: 341px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      align-self: center;
+      width: 100%;
+      word-break: break-word;
+    }
+  
+
+  
+</style>
+
+<div id="rd-text-kr57w1op" class="bricks--component bricks--component-text rd-text">
+  <p style="text-align: center;"><br></p>
+</div>
+
+
+
+</div>
+
+  </div>
+</div>
+
+</div>
+
+</section>
+
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-section-jrux37c9 {
+      
+          background-color: rgba(63,62,62,1);
+        
+      border-bottom-style: none;
+      border-color: transparent;
+      border-left-style: none;
+      border-radius: 1px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+    }
+
+    #rd-section-jrux37c9 > div:not(.bricks--row) {
+      min-height: 0px;
+    }
+  
+
+  
+</style>
+
+<section id="rd-section-jrux37c9" class="bricks--section rd-section">
+  
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-row-jrux37ca {
+      min-height: 50px;
+    }
+
+    #rd-row-jrux37ca .bricks--column > div {
+      min-height: 50px;
+    }
+
+    @media screen and (max-width: 767px) {
+      #rd-row-jrux37ca.bricks--row.rd-row {
+        min-height: auto;
+      }
+    }
+  
+</style>
+
+<div id="rd-row-jrux37ca" class="bricks--row rd-row">
+  
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-column-jrux37cb {
+      flex: 12 0 0;
+    }
+
+    #rd-column-jrux37cb > div {
+      
+          background-color: transparent;
+        
+      justify-content: center;
+      padding-top: 7px;
+      padding-right: 30px;
+      padding-bottom: 7px;
+      padding-left: 30px;
+    }
+    @media screen and (max-width: 767px) {
+      #rd-column-jrux37cb > div {
+        min-height: auto !important;
+      }
+    }
+  
+
+  
+</style>
+
+<div id="rd-column-jrux37cb" class="bricks--column rd-column">
+  <div>
+    
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-image-julhppci {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      align-self: center;
+      max-width: 255px;
+    }
+
+    #rd-image-julhppci a,
+    #rd-image-julhppci img {
+      width: 255px;
+      max-width: 100%;
+      height: auto;
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+    }
+    @media screen and (max-width: 767px) {
+      #rd-image-julhppci {
+        align-self: center;
+      }
+    }
+  
+
+  
+</style>
+
+
+
+<div id="rd-image-julhppci" class="bricks--component bricks--component-image rd-image">
+  
+        <img src="https://d335luupugsy2.cloudfront.net/cms/files/320080/1620654143/$h5morveo6jt" alt="">
+
+  
+</div>
+
+  </div>
+</div>
+
+</div>
+
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-row-juljjjfd {
+      min-height: 50px;
+    }
+
+    #rd-row-juljjjfd .bricks--column > div {
+      min-height: 50px;
+    }
+
+    @media screen and (max-width: 767px) {
+      #rd-row-juljjjfd.bricks--row.rd-row {
+        min-height: auto;
+      }
+    }
+  
+</style>
+
+<div id="rd-row-juljjjfd" class="bricks--row rd-row">
+  
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-column-juljjjfe {
+      flex: 6 0 0;
+    }
+
+    #rd-column-juljjjfe > div {
+      
+          background-color: transparent;
+        
+      justify-content: center;
+      padding-top: 0px;
+      padding-right: 10px;
+      padding-bottom: 0px;
+      padding-left: 10px;
+    }
+    @media screen and (max-width: 767px) {
+      #rd-column-juljjjfe > div {
+        min-height: auto !important;
+      }
+    }
+  
+
+  
+</style>
+
+<div id="rd-column-juljjjfe" class="bricks--column rd-column">
+  <div>
+    
+<style type="text/css" rel="stylesheet">
+  
+    #rd-text-juljjlsc {
+      display: block;
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+      min-height: auto0px;
+      max-width: 186px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      align-self: center;
+      width: 100%;
+      word-break: break-word;
+    }
+  
+
+  
+</style>
+
+<div id="rd-text-juljjlsc" class="bricks--component bricks--component-text rd-text">
+  <p><span style="color: rgb(255, 255, 255); font-size: 12px;">@ Todos os Direitos Reservados.</span></p>
+</div>
+
+
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-text-lfa5ehrm {
+      display: block;
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+      min-height: auto0px;
+      max-width: 405px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      align-self: center;
+      width: 100%;
+      word-break: break-word;
+    }
+  
+
+  
+</style>
+
+<div id="rd-text-lfa5ehrm" class="bricks--component bricks--component-text rd-text">
+  <p style="text-align: center;"><strong style="font-size: 25px; color: rgb(255, 255, 255);">Consulte aqui o cadastro da Instituição no Sistema e-MEC</strong></p>
+</div>
+
+
+
+  </div>
+</div>
+
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-column-lfa5e0f6 {
+      flex: 6 0 0;
+    }
+
+    #rd-column-lfa5e0f6 > div {
+      
+          background-color: transparent;
+        
+      justify-content: center;
+      padding-top: 0px;
+      padding-right: 10px;
+      padding-bottom: 0px;
+      padding-left: 10px;
+    }
+    @media screen and (max-width: 767px) {
+      #rd-column-lfa5e0f6 > div {
+        min-height: auto !important;
+      }
+    }
+  
+
+  
+</style>
+
+<div id="rd-column-lfa5e0f6" class="bricks--column rd-column">
+  <div>
+    
+
+<style type="text/css" rel="stylesheet">
+  
+    #rd-image-lfa5e8fp {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      align-self: center;
+      max-width: 200px;
+    }
+
+    #rd-image-lfa5e8fp a,
+    #rd-image-lfa5e8fp img {
+      width: 200px;
+      max-width: 100%;
+      height: auto;
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 0px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 1px;
+    }
+    @media screen and (max-width: 767px) {
+      #rd-image-lfa5e8fp {
+        align-self: center;
+      }
+    }
+  
+
+  
+</style>
+
+
+
+<div id="rd-image-lfa5e8fp" class="bricks--component bricks--component-image rd-image">
+  
+    <a
+      href="https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MTM0ODE="
+      target=""
+      title=""
+    >
+          <img src="https://d335luupugsy2.cloudfront.net/cms/files/320080/1670624846/$wgcz1xo8r8r" alt="">
+
+    </a>
+  
+</div>
+
+  </div>
+</div>
+
+</div>
+
+</section>
+
+      </div>
+    </div>
+
+    
+      <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/07da40f5-1941-484e-9989-ceef04402200-loader.js"></script>
+    
+
+    <script id="landing-page-attributes" data-id="4462662" data-experiment-content-id=""></script>
+
+  <script id="analytics_tracking_code" type="text/javascript">
+    var uuid = 'UA-845052-1';
+    var domain = 'riobrancofac.edu.br';
+
+    function initializeBricksGA() {
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', uuid, 'auto');
+      ga('send', 'pageview');
+
+      idsDataset = document.getElementById('landing-page-attributes').dataset;
+      ga('send', 'event', 'RD Landing Pages', 'Viewed', 'landing_page:' + idsDataset.id);
+
+      if (idsDataset.experimentContentId) {
+        ga('send', 'event', 'RD Landing Pages', 'Viewed', 'experiment_content:' + idsDataset.experimentContentId);
+      }
+    }
+
+    var _gaq = _gaq || [];
+
+    if (!window.RDCookieControl || window.RDCookieControl.analytics.track) {
+      initializeBricksGA();
+    } else {
+      document.addEventListener(window.RDCookieControl.analytics.eventName, initializeBricksGA);
+    }
+  </script>
+
+
+    
+  <script id="user-ga-interaction" type="text/javascript">
+    function addGoogleAnalyticsInteraction() {
+      var tags = ['input', 'a', 'button'];
+
+      function retrieveAllElements(tags) {
+        return tags.reduce(function(prev, curr){
+          return prev.concat(Array.prototype.slice.call(document.querySelectorAll(curr)));
+        }, []);
+      }
+
+      function addEvents(elements, event) {
+        if(!elements) return;
+        elements.forEach(function(element) {
+          element.addEventListener(event, createInterativeCallback());
+        });
+      }
+
+      function defineLabel(e) {
+        var target = e.target || e.currentTarget
+        var evtLabel = target.textContent || target.name || target.value || 'default';
+        return 'rdstationlp=<'+ target.tagName.toLowerCase() + '>:' + evtLabel.trim();
+      }
+
+      function createInterativeCallback() {
+        return function(e){
+          var label = defineLabel(e);
+           _gaq.push(['_trackEvent', 'RD_LP_user_interaction', e.type, label , null, false]);
+        }
+      }
+
+      addEvents(retrieveAllElements(tags), 'click');
+    }
+
+    window.addEventListener('load', function() {
+      if (!window.RDCookieControl || window.RDCookieControl.analytics.track) {
+        addGoogleAnalyticsInteraction();
+      } else {
+        document.addEventListener(window.RDCookieControl.analytics.eventName, addGoogleAnalyticsInteraction);
+      }
+    })
+  </script>
+
+
+    <div data-editable="true" data-field-name="landing_page"></div>
+    <script type="text/javascript"> </script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.min.js"></script>
+<script type="text/javascript">
+ (function () {
+ $(document).ready(function () {
+ $('#rd-text_field-kr57uhro').mask('000.000.000-00');
+ });
+ }());
+</script>
+<script type="text/javascript"> </script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.min.js"></script>
+<script type="text/javascript">
+ (function () {
+ $(document).ready(function () {
+ $('#rd-text_field-kr57uhrp').mask('00/00/0000');
+ });
+ }());
+</script>
+
+<script type="text/javascript"> </script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.min.js"></script>
+<script type="text/javascript">
+ (function () {
+ $(document).ready(function () {
+ $('#rd-text_field-kr57uhrq').mask('00000-000');
+ });
+ }());
+</script>
+    <style>
+      
+    </style>
+    
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', "578834752652242");
+    fbq('track', 'PageView');
+  </script>
+
+
+  </body>
+</html>
+NRN�      dp͸dpͺE���dp͹   n    O^partitionKey=%28https%2Criobrancofac.edu.br%29,:https://lp.riobrancofac.edu.br/vestibular-tradicional-2024-1 necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/2 200 OK
+access-control-allow-origin: *
+content-security-policy-report-only: upgrade-insecure-requests; default-src 'self' https: data: wss: 'unsafe-inline' 'unsafe-eval';
+content-type: text/html
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=7776000
+x-frame-options: sameorigin
+content-length: 44134
+date: Fri, 26 May 2023 14:13:01 GMT
+X-Firefox-Spdy: h2
+ original-response-headers access-control-allow-origin: *
+content-security-policy-report-only: upgrade-insecure-requests; default-src 'self' https: data: wss: 'unsafe-inline' 'unsafe-eval';
+content-type: text/html
+referrer-policy: strict-origin-when-cross-origin
+set-cookie: __rd_experiment_version=index; Path=/vestibular-tradicional-2024-1; Max-Age=31536000000000000
+strict-transport-security: max-age=7776000
+x-frame-options: sameorigin
+content-length: 44134
+date: Fri, 26 May 2023 14:13:01 GMT
+X-Firefox-Spdy: h2
+ ctid 1 uncompressed-len 0 net-response-time-onstart 1157 net-response-time-onstop 1897   �f

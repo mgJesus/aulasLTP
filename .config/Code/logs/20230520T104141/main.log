@@ -1,0 +1,9 @@
+2023-05-20 10:41:41.234 [info] update#setState idle
+2023-05-20 10:42:11.242 [info] update#setState checking for updates
+2023-05-20 10:42:11.695 [info] update#setState idle
+2023-05-20 11:42:11.252 [info] update#setState checking for updates
+2023-05-20 11:42:12.095 [info] update#setState idle
+2023-05-20 12:42:11.282 [info] update#setState checking for updates
+2023-05-20 12:42:12.190 [info] update#setState idle
+2023-05-20 12:50:42.008 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/base/worker/workerMain.js#editorWorkerService
+2023-05-20 12:50:42.009 [info] Extension host with pid 3098 exited with code: 0, signal: unknown.

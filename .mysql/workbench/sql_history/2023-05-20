@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ENTRY timestamp='12:56:07 PM'>create table carat(&#x0A;	id int primary key not null,&#x0A;    nome varchar(100),&#x0A;    especie varchar(100),&#x0A;    quantidade int &#x0A;    )</ENTRY>
+<ENTRY timestamp='12:56:25 PM'>use animais</ENTRY>
+<ENTRY timestamp='12:56:27 PM'>~</ENTRY>
+<ENTRY timestamp='12:56:45 PM'>~</ENTRY>
+<ENTRY timestamp='12:59:27 PM'>create database animais</ENTRY>
+<ENTRY timestamp='12:59:38 PM'>use animais</ENTRY>
+<ENTRY timestamp='12:59:52 PM'>create table carat(&#x0A;	id int primary key not null,&#x0A;    nome varchar(100),&#x0A;    especie varchar(100),&#x0A;    quantidade int &#x0A;    )</ENTRY>
+<ENTRY timestamp='01:05:41 PM'>create&#x0A;create database animais</ENTRY>
+<ENTRY timestamp='01:05:46 PM'>select * from carat</ENTRY>

@@ -1,0 +1,9 @@
+2023-08-24 20:32:09.996 [info] Getting Manifest... ms-python.vscode-pylance
+2023-08-24 20:32:10.053 [info] Installing extension: ms-python.vscode-pylance
+2023-08-24 20:32:10.967 [info] Getting Manifest... ms-python.python
+2023-08-24 20:32:18.774 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-08-24 20:32:23.487 [info] Extracted extension to /home/aluno/.vscode/extensions/.9034dbe4-bd21-4f80-82ba-cdb68ffd8307: ms-python.vscode-pylance
+2023-08-24 20:32:23.511 [info] Renamed to /home/aluno/.vscode/extensions/ms-python.vscode-pylance-2023.8.40
+2023-08-24 20:32:23.514 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-08-24 20:32:23.525 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-08-24 20:32:23.530 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.5.30

@@ -1,0 +1,22 @@
+2023-05-20 12:51:19.583 [info] Log level: Info
+2023-05-20 12:51:19.583 [info] Validating found git in: "git"
+2023-05-20 12:51:19.583 [info] Using git "1.8.3.1" from "git"
+2023-05-20 12:51:19.583 [info] > git rev-parse --show-toplevel [5ms]
+2023-05-20 12:51:19.593 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-05-20 12:51:19.608 [info] Open repository: /home/aluno/Documents/gg
+2023-05-20 12:51:19.622 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 12:51:19.644 [info] > git config --get commit.template [15ms]
+2023-05-20 12:51:19.644 [info] > git remote --verbose [22ms]
+2023-05-20 12:51:19.665 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [3ms]
+2023-05-20 12:51:19.671 [info] > git rev-list --left-right --count master...oringin/master [1ms]
+2023-05-20 12:51:19.678 [info] > git status -z -uall [2ms]
+2023-05-20 12:51:19.690 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 12:51:19.698 [info] > git config --get commit.template [3ms]
+2023-05-20 12:51:19.698 [info] > git remote --verbose [8ms]
+2023-05-20 12:51:19.706 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-05-20 12:51:19.713 [info] > git rev-list --left-right --count master...oringin/master [2ms]
+2023-05-20 12:51:19.724 [info] > git status -z -uall [4ms]
+2023-05-20 12:51:20.292 [info] > git check-ignore -v -z --stdin [70ms]
+2023-05-20 12:51:22.672 [info] > git show --textconv :mysupercode.py [28ms]
+2023-05-20 12:51:22.679 [info] > git ls-files --stage -- /home/aluno/Documents/gg/mysupercode.py [7ms]
+2023-05-20 12:51:22.727 [info] > git cat-file -s d2cd2aff63dfb2c4bdfaed81c34826b37b5968c4 [11ms]

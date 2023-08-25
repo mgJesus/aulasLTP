@@ -1,0 +1,55 @@
+12:43:39 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: /usr/share/mysql-workbench
+	plugin path: /usr/lib64/mysql-workbench/plugins
+	struct path: /usr/share/mysql-workbench/grt
+	module path: /usr/lib64/mysql-workbench/modules
+	library path: /usr/share/mysql-workbench/libraries
+	user data dir: /home/aluno/.mysql/workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+12:43:39 [INF][      WBContext]: WbContext::init
+12:43:39 [INF][            WBA]: Looking for extension modules for WBA...
+12:43:39 [INF][            WBA]: 0 extension modules found
+12:43:39 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Linux/Unix version 8.0.22 CE build 107600 (64 bit)
+	Configuration Directory: /home/aluno/.mysql/workbench
+	Data Directory: /usr/share/mysql-workbench
+	Cairo Version: 1.15.12
+	OS: CentOS Linux release 7.9.2009 (Core) x86_64
+	CPU: 4x Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz (1284.235MHz) - 7.63GiB RAM
+No video adapter info available
+	Fips mode enabled: no
+
+12:43:40 [WRN][       WBModule]: OS not found on supported OS list. OS string: 'CentOS Linux release 7.9.2009 (Core) x86_64'
+12:44:04 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)
+12:44:04 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'root'@'localhost' (using password: NO)
+12:44:27 [INF][SQL Editor Form]: Opened connection 'Local instance 3306' to MySQL Community Server - GPL version 8.0.33
+12:44:27 [INF][  column_widths]: Initializing column width cache for Local_instance_3306
+12:46:07 [ERR][sqlide_grt.py:enbeautificate:336]: Error reformating SQL: create
+Traceback (most recent call last):
+  File "/usr/lib64/mysql-workbench/modules/sqlide_grt.py", line 333, in enbeautificate
+    result = doReformatSQLStatement(statement, True)
+  File "/usr/lib64/mysql-workbench/modules/sqlide_grt.py", line 234, in doReformatSQLStatement
+    raise Exception("Error parsing statement: %s" % ast_list[0])
+Exception: Error parsing statement: SQL syntax error near 'create'
+
+12:46:08 [ERR][sqlide_grt.py:enbeautificate:336]: Error reformating SQL: create
+Traceback (most recent call last):
+  File "/usr/lib64/mysql-workbench/modules/sqlide_grt.py", line 333, in enbeautificate
+    result = doReformatSQLStatement(statement, True)
+  File "/usr/lib64/mysql-workbench/modules/sqlide_grt.py", line 234, in doReformatSQLStatement
+    raise Exception("Error parsing statement: %s" % ast_list[0])
+Exception: Error parsing statement: SQL syntax error near 'create'
+
+12:56:07 [ERR][ sqlide-history]: Can't open SQL history file /home/aluno/.mysql/workbench/sql_history/2023-05-20
+12:56:07 [ERR][SQL Editor Form]: Error Code: 1046. No database selected
+Select the default DB to be used by double-clicking its name in the SCHEMAS list in the sidebar.
+12:56:25 [ERR][SQL Editor Form]: Error Code: 1049. Unknown database 'animais'
+12:56:27 [ERR][SQL Editor Form]: Error Code: 1049. Unknown database 'animais'
+12:56:45 [ERR][SQL Editor Form]: Error Code: 1049. Unknown database 'animais'
+13:05:41 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create database animais' at line 2

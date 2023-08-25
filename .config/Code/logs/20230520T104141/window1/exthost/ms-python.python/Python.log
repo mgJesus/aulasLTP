@@ -1,0 +1,67 @@
+2023-05-20 12:10:51.572 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-05-20 12:10:51.572 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-05-20 12:10:51.723 [info] Test server listening.
+2023-05-20 12:10:51.755 [info] > conda info --json
+2023-05-20 12:10:51.827 [info] > /usr/share/anaconda/bin/conda info --json
+2023-05-20 12:10:52.267 [info] Found: /bin/python --> /bin/python2.7
+2023-05-20 12:10:52.271 [info] Found: /bin/python2 --> /bin/python2.7
+2023-05-20 12:10:52.271 [info] Found: /bin/python2.7 --> /bin/python2.7
+2023-05-20 12:10:52.273 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-20 12:10:52.273 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-20 12:10:52.273 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-20 12:10:52.273 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-20 12:10:52.273 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-20 12:10:52.273 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-05-20 12:10:52.273 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-05-20 12:10:52.273 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-05-20 12:10:52.273 [info] Found: /bin/python3 --> /bin/python3.6
+2023-05-20 12:10:52.314 [info] Found: /bin/python3.6 --> /bin/python3.6
+2023-05-20 12:10:52.338 [info] Found: /usr/bin/python --> /usr/bin/python2.7
+2023-05-20 12:10:52.338 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2023-05-20 12:10:52.338 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2023-05-20 12:10:52.339 [info] Found: /usr/bin/python3 --> /usr/bin/python3.6
+2023-05-20 12:10:52.339 [info] Found: /usr/bin/python3.6 --> /usr/bin/python3.6
+2023-05-20 12:10:52.374 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-05-20 12:10:52.378 [warning] [Error: Command failed: /bin/python -I /home/aluno/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py /home/aluno/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1112:16)
+	at Socket.<anonymous> (node:internal/child_process:470:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/bin/python -I /home/aluno/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py /home/aluno/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py'
+}
+2023-05-20 12:10:52.378 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-05-20 12:10:52.387 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-05-20 12:10:52.397 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-05-20 12:10:52.416 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-05-20 12:10:52.426 [warning] [Error: Command failed: /usr/bin/python -I /home/aluno/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py /home/aluno/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1112:16)
+	at Socket.<anonymous> (node:internal/child_process:470:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python -I /home/aluno/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py /home/aluno/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py'
+}
+2023-05-20 12:10:52.426 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-05-20 12:10:52.436 [info] > /usr/bin/python ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-05-20 12:10:52.446 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-05-20 12:10:52.562 [info] Python interpreter path: /bin/python3
+2023-05-20 12:10:52.610 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-20 12:10:53.392 [info] Starting Pylance language server.
+2023-05-20 12:11:11.929 [info] Send text to terminal: /bin/python3 /home/aluno/Documents/gg/mysupercode.py

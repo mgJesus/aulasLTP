@@ -1,0 +1,11 @@
+create
+create database animais;
+
+use animais;
+create table carat(
+	id int primary key not null,
+    nome varchar(100),
+    especie varchar(100),
+    quantidade int 
+    );
+select * from carat;

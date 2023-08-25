@@ -1,0 +1,28 @@
+[ 1692919338.225696]: IMSettings-Daemon[2165]: INFO: Starting imsettings-daemon...
+[ 1692919338.225835]: IMSettings-Daemon[2165]: INFO:   [HOME=/home/aluno/.config/imsettings]
+[ 1692919338.225888]: IMSettings-Daemon[2165]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1692919338.225926]: IMSettings-Daemon[2165]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1692919338.225969]: IMSettings-Daemon[2165]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1692919338.226024]: IMSettings-Daemon[2165]: INFO:   [MODULES=gsettings]
+
+imsettings information
+==========================
+XINPUTRC: N/A
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: yes
+Is Qt supported: no
+DESKTOP: gnome
+GUESS_DESKTOP: $GDMSESSION
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-ymVNztUIOY,guid=d37c91dcee976663b6c2f5d064e7e62a
+GTK_IM_MODULE: 
+QT_IM_MODULE: 
+XMODIFIERS: 
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+org.gnome.SettingsDaemon.Keyboard.desktop exists. imsettings is going to be disabled.

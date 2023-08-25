@@ -1,0 +1,751 @@
+.orangerow_top {
+  text-align: center;
+  flex-wrap: wrap;
+  padding-top:20px;
+  padding-bottom:30px;
+  margin: auto;
+  
+}
+.small-screen-carousel-images{
+display:block; margin-left: auto; margin-right: auto; width: 90%; border-radius: 1rem;
+position: absolute;
+}
+
+.orangerow_bottom {
+  text-align: center;
+  flex-wrap: wrap;
+  padding-bottom: 20px;
+  margin: auto;
+}
+
+.greenrow {
+  text-align: center;
+  flex-wrap: wrap;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin: auto;
+ background-color: #a5cf47; 
+}
+
+.two_boxes {
+  width: 375px;
+  display: inline-block;
+padding: 20px;
+}
+
+.four_boxes {
+  width: 220px;
+  display: inline-block;
+padding: 12px;
+}
+
+/* Clearfix (clear floats) 
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+*/
+
+  .statrow {
+      display: flex;
+      flex-wrap: wrap;
+  
+}
+
+.stats {
+  display: flex;
+      flex-wrap: wrap;
+padding: 0px;
+}
+
+.stats .col {
+margin: 0;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 30px;
+display: flex;  
+flex-wrap: wrap;
+}
+.statContainer {
+  margin:auto;
+  display: inline-block;
+width: 60%;border-radius: 6px;
+background-color: #f5f7f7;overflow: hidden;
+}
+
+.statContainer .title {
+padding: 5px 10px;
+font-size: 13px;
+color: #fff;
+}
+.statContainer.purple .title {
+background-color: #92267c;
+}
+.statContainer.purple .status {
+  margin-top: 5px;
+color: #92267c;
+}
+
+.statContainer.gray .title {
+background-color: #58585a;
+}
+.statContainer.gray .status {
+  margin-top: 5px;
+color: #58585a;
+}
+
+.statContainer.teal .title {
+  
+background-color: #128ba8;
+}
+.statContainer.teal .status {
+  padding-top: 5px;
+color: #128ba8;
+}
+
+.statContainer.lime .title {
+background-color: #a6d248;
+}
+.statContainer.lime .status {
+
+color: #a6d248;
+}
+
+.statContainer.pink .title {
+background-color: #ef6e85;
+}
+.statContainer.pink .status {
+color: #ef6e85;
+}
+
+.statContainer.orange .title {
+background-color: #f88d34;
+}
+.statContainer.orange .status {
+  padding-top: 5px;
+color: #f88d34;
+}
+
+/*
+@media (max-width: 1200px) {
+.stats .col {
+  min-width: 20% !important;
+}
+}
+
+@media (max-width: 887px) {
+.stats .col {
+  min-width: 25% !important;
+}
+}
+@media (max-width: 768px) {
+.stats .col {
+  min-width: 50% !important;
+}
+}
+@media (max-width: 525px) {
+.stats .col {
+  min-width: 100% !important;
+}
+}
+*/
+
+       h2.summit {color: #F88D34; font-size: 24pt; font-weight: bold;padding-top: 15px;}
+       h2.reg { color: white; background-color: #128BA8; padding: 15px; font-size: 28pt;} 
+
+    .carousel-control-next,
+  .carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+  }
+
+.mit_app_inventor .about-us .container-fluid {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+.mit_app_inventor .about-us .card .card-img img {
+  width: 100%; }
+
+.mit_app_inventor .default-page .container-fluid {
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
+
+/* .mit_app_inventor .default-page .header { */
+/* /\*  background: linear-gradient(174deg, rgba(9, 92, 113, 0.75), rgba(5, 46, 57, 0.75)), url("/akamai_images/DSC_0019.jpg"); *\/ */
+/*   background: none; */
+/*   height: 200px; */
+/*   background-size: cover; */
+/*   background-position: center center; } */
+/*   .mit_app_inventor .default-page .header h1 { */
+/*       padding-top: 2rem; */
+/*       color: black; */
+/*       font-size: 60px; */
+/*   } */
+
+.mit_app_inventor .default-page .card .card-img img {
+  width: 100%; }
+
+.mit_app_inventor .blog-post .container-fluid {
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
+
+.mit_app_inventor .blog-post .image-gallery.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px; }
+  .mit_app_inventor .blog-post .image-gallery.row .column {
+    flex: 50%;
+    max-width: 50%;
+    padding: 0 4px; }
+    .mit_app_inventor .blog-post .image-gallery.row .column img {
+      margin-top: 8px;
+      vertical-align: middle;
+      width: 100%; }
+  @media screen and (max-width: 800px) {
+    .mit_app_inventor .blog-post .image-gallery.row .column {
+      -ms-flex: 50%;
+      flex: 50%;
+      max-width: 50%; } }
+  @media screen and (max-width: 600px) {
+    .mit_app_inventor .blog-post .image-gallery.row .column {
+      -ms-flex: 100%;
+      flex: 100%;
+      max-width: 100%; } }
+
+.mit_app_inventor .blogs-home .container-fluid {
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
+
+.mit_app_inventor .blogs-home .card {
+  max-height: 535px; }
+
+.mit_app_inventor .blogs-home .col-xl-12.blogs {
+  display: flex;
+  flex-wrap: wrap; }
+  .mit_app_inventor .blogs-home .col-xl-12.blogs .card {
+    flex: 49%;
+    max-width: 49%;
+    margin: 0.3rem; }
+  @media screen and (max-width: 800px) {
+    .mit_app_inventor .blogs-home .col-xl-12.blogs .card {
+      -ms-flex: 49%;
+      flex: 49%;
+      max-width: 49%; } }
+  @media screen and (max-width: 600px) {
+    .mit_app_inventor .blogs-home .col-xl-12.blogs .card {
+      -ms-flex: 100%;
+      flex: 100%;
+      max-width: 100%; } }
+
+.mit_app_inventor .background-green {
+  padding-right: 10vw;
+  padding-left: 10vw;
+  margin: auto;
+  background: #145873; }
+
+.mit_app_inventor .orange-gradient {
+  background-image: linear-gradient(164deg, #A24F18, #FD8F1F); }
+
+.mit_app_inventor .magenta-gradient {
+  background-image: linear-gradient(351deg, #A7247A, #54123D); }
+
+.mit_app_inventor .white {
+  color: #FFFFFF; }
+
+.mit_app_inventor .off-white {
+  color: #FFFFFF;
+  opacity: .9; }
+
+.mit_app_inventor .half-white {
+  color: #FFFFFF;
+  opacity: .5; }
+
+.mit_app_inventor .dark-gray {
+  color: #000000;
+  opacity: .5; }
+
+.mit_app_inventor .black {
+  color: #1C1C1C; }
+
+.mit_app_inventor .magenta {
+  color: #A7247A; }
+
+.mit_app_inventor .dark-purple {
+  color: #54123D; }
+
+.mit_app_inventor .gray {
+  color: #000000;
+  opacity: .6; }
+
+.mit_app_inventor .rust {
+  color: #A24F18; }
+
+.mit_app_inventor .peach {
+  color: #FD8F1F; }
+
+.mit_app_inventor .footer {
+  padding: 10px 25px;
+  color: white;
+  list-style-type: none; 
+
+}
+
+  .mit_app_inventor .footer .row {
+    margin-top: 0;
+    margin-bottom: 0; 
+  }
+  .mit_app_inventor .footer .has-search {
+    padding-left: 0; }
+  .mit_app_inventor .footer .links .contact-us {
+    padding-left: 0; }
+  .mit_app_inventor .footer .links address {
+    margin-bottom: 0.5rem; }
+  .mit_app_inventor .footer .links a, .mit_app_inventor .footer .links address {
+    line-height: 16px;
+    font-size: 16px;
+    color: #FFFFFF; }
+  .mit_app_inventor .footer .legal ul {
+    padding: 0;
+    list-style-type: none;
+    font-size: 14px; }
+    .mit_app_inventor .footer .legal ul a {
+      line-height: 16px;
+      color: #FFFFFF; }
+
+.mit_app_inventor {
+  max-width: 1440px;
+  margin: auto;
+  font-family: 'Roboto', sans-serif; }
+
+.mit_app_inventor
+.header {
+  background: linear-gradient(174deg, rgba(9, 92, 113, 0.75), rgba(5, 46, 57, 0.75));
+  font-size: 60px;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin-bottom: 3rem; }
+
+.header.index {
+  padding: 0;
+  margin-bottom: 0;
+  background: linear-gradient(174deg, rgba(9, 92, 113, 0.40), rgba(5, 46, 57, 0.40)), url("/akamai_images/CRLS19-FreshmanTech_173.jpg");
+  height: 250px;
+  background-size: cover;
+  background-position: center center; }
+  .header.index h1 {
+    color: #FFFFFF;
+    padding-top: 24px;
+    margin: 0 auto;
+    font-size: 48px; }
+
+  .header.index .btn {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px; }
+    .header.index .btn.btn-outline-light {
+      border-width: 4px;
+      border-radius: 35px 35px 35px 35px; }
+    .header.index .btn:hover {
+      color: #095C71; }
+
+.mit_app_inventor .container-fluid {
+  position: relative;
+  width: 85%;
+  padding-right: 15px; 
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+   }
+
+   .mit_app_inventor .container-fluid-home {
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+     }
+
+.mit_app_inventor .stats {
+  width: 100%;
+  min-height: 116px;
+  text-align: center;
+  margin-top: 0 !important; }
+  .mit_app_inventor .stats .stat-group {
+    color: #095C71;
+    font-weight: bold;
+    font-size: 25px; }
+
+.mit_app_inventor .row {
+ 
+  margin-top: 1rem;
+  margin-bottom: 1rem; }
+
+.mit_app_inventor .action-cards .row {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.mit_app_inventor .quick-link-cards .card {
+  height: 100%;
+  border-color: #A7247A;
+  border-width: .13rem;
+  border-radius: 1rem; }
+  .mit_app_inventor .quick-link-cards .card .card-img {
+    padding: 1.5rem;
+    padding-bottom: 0; }
+    .mit_app_inventor .quick-link-cards .card .card-img .far, .mit_app_inventor .quick-link-cards .card .card-img .fas {
+      color: #095C71; }
+      .mit_app_inventor .quick-link-cards .card .card-img .far.fa-flag, .mit_app_inventor .quick-link-cards .card .card-img .fas.fa-flag {
+        transform: rotate(-15deg); }
+  .mit_app_inventor .quick-link-cards .card .card-title {
+    color: #A7247A;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .mit_app_inventor .quick-link-cards .card .card-body {
+    display: flex;
+    flex-direction: column; }
+  .mit_app_inventor .quick-link-cards .card .card-text {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    flex-grow: 2; }
+  .mit_app_inventor .quick-link-cards .card .action-btn {
+    color: #FFFFFF;
+    background-color: #A7247A;
+    border-radius: 2rem;
+    width: 10rem;
+    font-size: 1.1rem; }
+    .mit_app_inventor .quick-link-cards .card .action-btn:hover {
+      color: #A7247A;
+      background-color: #FFFFFF;
+      border-color: #A7247A; }
+
+.mit_app_inventor .action-card-container {
+  height: 100%; }
+.mit_app_inventor .action-cards {
+    border-radius: 15px 15px 15px 15px;
+    
+    color: #FFFFFF;
+    overflow: scroll;
+    height: 371px; }
+.mit_app_inventor .action-card-container .action-cards .card-footer .btn {
+      border-radius: 1rem; }
+.mit_app_inventor .picture-break {
+  height: 489px;
+  border-radius: 1rem;
+  background: url("/akamai_images/2019.03.21_13.05.53.851.jpg");
+  background-size: cover;
+  background-position: center center; }
+
+.mit_app_inventor .news-header h1 {
+  width: 100%;
+  color: #92267c; }
+.mit_app_inventor .card-adjust {
+  overflow: hidden;}
+  
+    .mit_app_inventor .accented-cards .card .card-body:first-child {
+      border-radius: 1rem; }
+
+.mit_app_inventor .news-cards .card-columns {
+  column-count: 2; }
+
+.mit_app_inventor .news-cards .card {
+  border: 4px solid rgb(88,88,90);
+  border-radius: 1rem; }
+  .mit_app_inventor .news-cards .card .card-img {
+    height: 200px;
+    border-radius: 1rem 1rem 0 0;
+    background-size: cover !important; }
+    .mit_app_inventor .news-cards .card .card-img.dharavi-girls {
+      background: url("/akamai_images/dharavi-girls.jpeg"); }
+    .mit_app_inventor .news-cards .card .card-img.kids {
+      background: url("/akamai_images/coolthink1.png"); }
+    .mit_app_inventor .news-cards .card .card-img.kids-on-computer {
+      background: url("/akamai_images/DSC_0019.jpg"); }
+  .mit_app_inventor .news-cards .card .card-text {
+    font-size: 18px; }
+  .mit_app_inventor .news-cards .card .card-footer {
+    font-size: 12px; }
+.card-resources { padding-bottom: 10px; margin: 20px;}
+.mit_app_inventor .view-more-container {
+  width: 100%; }
+  .mit_app_inventor .view-more-container .btn {
+    width: 145px;
+    height: 47px;
+    color: #92267c;
+    border: 4px solid #92267c;
+    border-radius: .75rem;
+    font-size: 18px; }
+    .mit_app_inventor .view-more-container .btn:hover {
+      color: white;
+      background-color: #92267c; }
+
+.mit_app_inventor .navbar .navbar-brand {
+  width: 180px
+  }
+
+.mit_app_inventor .navbar .navbar-nav a {
+  color: #1C1C1C; }
+
+.mit_app_inventor .navbar .navbar-nav li:hover > .dropdown-menu {
+  display: block; }
+
+.mit_app_inventor .navbar .navbar-nav .nav-item {
+ }
+  .mit_app_inventor .navbar .navbar-nav .nav-item .nav-link {
+    font-weight: bold; color: #58585a;
+    align-content: center;
+
+  }
+    .mit_app_inventor .navbar .navbar-nav .nav-item .nav-link:hover, .mit_app_inventor .navbar .navbar-nav .nav-item .nav-link:focus {
+      background-color: #EEEEEE; }
+  .mit_app_inventor .navbar .navbar-nav .nav-item .dropdown-menu {
+    margin-top: 0;
+    background-color: #EEEEEE;
+    color: #58585a
+    border-top-left-radius: 0;
+    border-width: 0; }
+
+.mit_app_inventor .navbar .donate-btn {
+  color: #FFFFFF;
+  background-color: #A7247A;
+  border-radius: .75rem;
+  width: 117px;
+  font-size: 18px; }
+
+.mit_app_inventor .navbar .create-btn {
+    color: #FFFFFF;
+    background-color: #F88D34;
+    border-radius: .75rem;
+    width: 150px;
+    font-size: 18px; }
+
+.mit_app_inventor .has-search {
+    padding-left: 24px; }
+  .mit_app_inventor .has-search.form-group {
+    margin-bottom: 0; }
+  .mit_app_inventor .has-search .form-control {
+    padding-left: 2.375rem;
+    border: 2px solid #1C1C1C;
+    border-radius: 31px; }
+  .mit_app_inventor .has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #1C1C1C;
+    opacity: .5; }
+
+  .controlblock-ai2 {
+    background-color: #bd9f3b;
+    color: white;
+    border: 1px dashed black;
+    padding: 1px 5px;
+  }
+  .callblock-ai2 {
+    background-color: #755585;
+    color: white;
+    border: 1px dashed black;
+    padding: 1px 5px;
+  }
+  .variableblock-ai2 {
+    background-color: #d05f2d;
+    border: 1px dashed #000;
+    color: white;
+    padding:1px 5px;
+  }
+  .setblock-ai2 {
+    background-color: #266643;
+    border: 1px dashed #000;
+    color: white;
+    padding:1px 5px;
+}
+  .getblock-ai2 {
+    background-color: #439970;
+    border: 1px dashed #000;
+    color: white;
+    padding:1px 5px;
+}
+  .listblock-ai2 {
+    background-color: #49a6d4;
+    color: white;
+    border: 1px dashed black;
+    padding: 1px 5px;
+  }
+  .textblock-ai2 {
+    background-color: #b32d5e;
+    color: white;
+    border: 1px dashed black;
+    padding: 1px 5px;
+  }
+   .mathblock-ai2 {
+    background-color: #3f71b5;
+    color: white;
+    border: 1px dashed black;
+    padding: 1px 5px;
+  }
+    .logicblock-ai2 {
+    background-color: #77AB41;
+    color: white;
+    border: 1px dashed black;
+    padding: 1px 5px;
+  }
+  .action-card-content {
+    font-size: 26pt;
+  }
+  ul.resource { margin-top: -2em;}
+
+  .tdresource { padding: 15px; vertical-align: top; }
+  .lessonplan {border: 1px solid black; padding: 0 5px;}
+
+  td.tut {
+    padding: 5px 10px;
+  }
+
+.divTable{
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+.divTableRow {
+  display: table-row;
+}
+.divTableHeading {
+  background-color: #EEE;
+  display: table-header-group;
+}
+.divTableCell, .divTableHead {
+  border: 1px solid #999999;
+  display: table-cell;
+  padding: 3px 10px;
+}
+.divTableHeading {
+  background-color: #EEE;
+  display: table-header-group;
+  font-weight: bold;
+}
+.divTableFoot {
+  background-color: #EEE;
+  display: table-footer-group;
+  font-weight: bold;
+}
+.divTableBody {
+  display: table-row-group;
+}
+  
+  @media (max-width: 800px) {
+    .mit_app_inventor .quick-link-cards .card .card-title {
+      font-size: 1.3rem;
+  }
+  .mit_app_inventor .quick-link-cards .card .card-text {
+      font-size: 1.2rem;
+  }
+}
+@media(max-width: 1300px) {
+  .mit_app_inventor .quick-link-cards .card .card-title {
+      font-size: 1.6rem;
+  }
+  .mit_app_inventor .quick-link-cards .card .card-text {
+      font-size: 1.3rem;
+  }
+@media (max-width: 1360px) {
+.header.index h1 {
+  margin: 0;
+  font-size: 48px;}
+}
+@media (max-width: 798px) {
+.header.index h1 {
+    font-size: 50px;}
+    .mit_app_inventor .news-cards .card-columns {
+      column-count: 1; }
+}
+@media (max-width: 484px) {
+.header.index h1 {
+       font-size: 36px;}
+.mit_app_inventor .news-cards .card-columns {
+  column-count: 1; }
+}
+@media (min-width: 576px) and (max-width: 1200px) {
+  .action-card-content {
+    font-size: 20pt;}
+    
+}
+@media (max-width: 575px) {
+  .action-card-content {
+    font-size: 24pt;}
+  .mit_app_inventor .footer {
+    padding: 1rem 0;
+  }
+}
+
+.mit_app_inventor ol li {
+  margin-bottom: 0.75rem;
+}
+.teachp {
+  font-size:14px;
+  padding:.7em;
+}
+.ai-box { font-family: Courier; }
+
+@media(max-width: 767px) {
+  .announcement {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+
+.app-badges {
+    height: 80px;
+    text-align: center;
+}
+.app-badges a {
+    display: inline-block;
+}
+.app-badges img {
+    height: 60px;
+    margin: 10px;
+}
+.ai-warning {
+    color: darkred;
+}
+.obsolete {
+    pointer-events: none;
+    background-image: url('data:image/png;base64,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');
+    background-repeat: repeat;
+    z-index: 1000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.ai-classic-header {
+    font-weight: bold;
+    font-size: 14pt;
+    color: darkred;
+}
+¥RÀ¾Òû      d'}‡d'}‡ElÚxd0¶[   ]    O^partitionKey=%28http%2Cmit.edu%29,:http://appinventor.mit.edu/mit_app_inventor.css?foo=3838 necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Sat, 01 Apr 2023 00:33:31 GMT
+Content-Type: text/css
+Content-Length: 20119
+Last-Modified: Tue, 06 Dec 2022 18:16:37 GMT
+ETag: "638f8705-4e97"
+X-Cache-Status: HIT
+Accept-Ranges: bytes
+ original-response-headers Server: nginx/1.14.0 (Ubuntu)
+Date: Sat, 01 Apr 2023 00:33:31 GMT
+Content-Type: text/css
+Content-Length: 20119
+Connection: keep-alive
+Last-Modified: Tue, 06 Dec 2022 18:16:37 GMT
+ETag: "638f8705-4e97"
+X-Cache-Status: HIT
+Accept-Ranges: bytes
+ ctid 5 uncompressed-len 0 net-response-time-onstart 301 net-response-time-onstop 569   N—

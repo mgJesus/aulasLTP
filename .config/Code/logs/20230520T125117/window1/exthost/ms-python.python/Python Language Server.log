@@ -1,0 +1,14 @@
+2023-05-20 12:51:22.352 [info] [Info  - 12:51:22 PM] (10786) Pylance language server 2023.5.30 (pyright e1b6074b) starting
+2023-05-20 12:51:22.354 [info] [Info  - 12:51:22 PM] (10786) Server root directory: /home/aluno/.vscode/extensions/ms-python.vscode-pylance-2023.5.30/dist
+2023-05-20 12:51:22.363 [info] [Info  - 12:51:22 PM] (10786) Starting service instance "gg"
+2023-05-20 12:51:22.539 [info] [Info  - 12:51:22 PM] (10786) Setting pythonPath for service "gg": "/bin/python3"
+2023-05-20 12:51:22.547 [info] [Warn  - 12:51:22 PM] (10786) stubPath /home/aluno/Documents/gg/typings is not a valid directory.
+2023-05-20 12:51:22.726 [info] [Info  - 12:51:22 PM] (10786) Assuming Python version 3.6
+2023-05-20 12:51:23.034 [info] [Info  - 12:51:23 PM] (10786) Found 1 source file
+2023-05-20 12:51:24.505 [info] [Info  - 12:51:24 PM] (10786) Background analysis(1) root directory: /home/aluno/.vscode/extensions/ms-python.vscode-pylance-2023.5.30/dist
+2023-05-20 12:51:24.506 [info] [Info  - 12:51:24 PM] (10786) Background analysis(1) started
+2023-05-20 12:51:25.091 [info] [Info  - 12:51:25 PM] (10786) Indexer background runner(2) root directory: /home/aluno/.vscode/extensions/ms-python.vscode-pylance-2023.5.30/dist (index)
+2023-05-20 12:51:25.091 [info] [Info  - 12:51:25 PM] (10786) Indexing(2) started
+2023-05-20 12:51:25.928 [info] [Info  - 12:51:25 PM] (10786) scanned(2) 12 files over 1 exec env
+2023-05-20 12:51:26.195 [info] [Info  - 12:51:26 PM] (10786) indexed(2) 3 files over 1 exec env
+2023-05-20 12:51:26.197 [info] [Info  - 12:51:26 PM] (10786) Indexing finished(2).

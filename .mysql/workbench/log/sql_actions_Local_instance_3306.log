@@ -1,0 +1,48 @@
+[1, 12:56:07] create table carat(
+	id int primary key not null,
+    nome varchar(100),
+    especie varchar(100),
+    quantidade int 
+    ): Running...
+[1, 12:56:07] create table carat(
+	id int primary key not null,
+    nome varchar(100),
+    especie varchar(100),
+    quantidade int 
+    ): Error Code: 1046. No database selected
+Select the default DB to be used by double-clicking its name in the SCHEMAS list in the sidebar.
+[2, 12:56:25] use animais: Running...
+[2, 12:56:25] use animais: Error Code: 1049. Unknown database 'animais'
+[3, 12:56:27] use animais: Running...
+[3, 12:56:27] use animais: Error Code: 1049. Unknown database 'animais'
+[4, 12:56:45] use animais: Running...
+[4, 12:56:45] use animais: Error Code: 1049. Unknown database 'animais'
+[5, 12:59:27] create database animais: Running...
+[5, 12:59:27] create database animais: 1 row(s) affected
+[6, 12:59:38] use animais: Running...
+[6, 12:59:38] use animais: 0 row(s) affected
+[7, 12:59:52] create table carat(
+	id int primary key not null,
+    nome varchar(100),
+    especie varchar(100),
+    quantidade int 
+    ): Running...
+[7, 12:59:52] create table carat(
+	id int primary key not null,
+    nome varchar(100),
+    especie varchar(100),
+    quantidade int 
+    ): 0 row(s) affected
+[8, 13:05:41] create
+create database animais: Running...
+[8, 13:05:41] create
+create database animais: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create database animais' at line 2
+[9, 13:05:46] select * from carat
+LIMIT 0, 1000
+: Running...
+[9, 13:05:46] select * from carat
+LIMIT 0, 1000
+: Fetching...
+[9, 13:05:46] select * from carat
+LIMIT 0, 1000
+: 0 row(s) returned

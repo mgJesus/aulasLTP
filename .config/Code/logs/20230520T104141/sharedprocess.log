@@ -1,0 +1,17 @@
+2023-05-20 10:41:43.816 [info] Started initializing default profile extensions in extensions installation folder. file:///home/aluno/.vscode/extensions
+2023-05-20 10:41:44.559 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/aluno/.vscode/extensions Unable to create file 'vscode-userdata:/home/aluno/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-05-20 10:41:44.560 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/aluno/.vscode/extensions
+2023-05-20 12:10:33.784 [info] Getting Manifest... ms-python.python
+2023-05-20 12:10:33.804 [info] Installing extension: ms-python.python
+2023-05-20 12:10:34.457 [info] Getting Manifest... ms-python.vscode-pylance
+2023-05-20 12:10:34.623 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-05-20 12:10:38.021 [info] Extension signature is verified: ms-python.python
+2023-05-20 12:10:41.814 [info] Extracted extension to /home/aluno/.vscode/extensions/.dd23f237-8942-4d48-baad-0e5cd1b63e2a: ms-python.python
+2023-05-20 12:10:41.829 [info] Renamed to /home/aluno/.vscode/extensions/ms-python.python-2023.8.0
+2023-05-20 12:10:41.842 [info] Extracting extension completed. ms-python.python
+2023-05-20 12:10:44.688 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-05-20 12:10:50.013 [info] Extracted extension to /home/aluno/.vscode/extensions/.85440549-8128-4443-988c-aec7416f725c: ms-python.vscode-pylance
+2023-05-20 12:10:50.042 [info] Renamed to /home/aluno/.vscode/extensions/ms-python.vscode-pylance-2023.5.30
+2023-05-20 12:10:50.046 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-05-20 12:10:50.078 [info] Extension installed successfully: ms-python.python
+2023-05-20 12:10:50.079 [info] Extension installed successfully: ms-python.vscode-pylance

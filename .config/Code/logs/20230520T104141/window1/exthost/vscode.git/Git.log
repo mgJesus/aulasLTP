@@ -1,0 +1,129 @@
+2023-05-20 10:41:55.774 [info] Log level: Info
+2023-05-20 10:41:55.774 [info] Validating found git in: "git"
+2023-05-20 10:41:55.774 [info] Using git "1.8.3.1" from "git"
+2023-05-20 10:41:55.774 [info] > git rev-parse --show-toplevel [14ms]
+2023-05-20 10:41:55.774 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-05-20 10:42:07.996 [info] > git rev-parse --show-toplevel [76ms]
+2023-05-20 10:42:07.996 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-05-20 10:55:57.458 [info] > git rev-parse --show-toplevel [3ms]
+2023-05-20 10:55:57.458 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-05-20 10:58:07.219 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-20 10:58:07.219 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-05-20 11:02:12.196 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-20 11:02:12.202 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-05-20 11:02:12.213 [info] Open repository: /home/aluno/Documents/gg
+2023-05-20 11:02:12.220 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 11:02:12.226 [info] > git remote --verbose [6ms]
+2023-05-20 11:02:12.227 [info] > git config --get commit.template [2ms]
+2023-05-20 11:02:12.236 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [3ms]
+2023-05-20 11:02:12.246 [info] > git status -z -uall [3ms]
+2023-05-20 11:02:12.265 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 11:02:12.275 [info] > git config --get commit.template [5ms]
+2023-05-20 11:02:12.275 [info] > git remote --verbose [11ms]
+2023-05-20 11:02:12.284 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-05-20 11:02:12.289 [info] > git status -z -uall [1ms]
+2023-05-20 11:02:12.584 [info] > git show --textconv :myfirtscommit.txt [39ms]
+2023-05-20 11:02:12.591 [info] > git ls-files --stage -- /home/aluno/Documents/gg/myfirtscommit.txt [20ms]
+2023-05-20 11:02:12.799 [info] > git check-ignore -v -z --stdin [5ms]
+2023-05-20 11:09:00.455 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 11:09:00.477 [info] > git remote --verbose [21ms]
+2023-05-20 11:09:00.481 [info] > git config --get commit.template [7ms]
+2023-05-20 11:09:00.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [7ms]
+2023-05-20 11:09:00.511 [info] > git status -z -uall [2ms]
+2023-05-20 11:09:00.552 [info] > git ls-files --stage -- /home/aluno/Documents/gg/myfirtscommit.txt [1ms]
+2023-05-20 11:09:00.558 [info] > git show --textconv :myfirtscommit.txt [1ms]
+2023-05-20 11:10:36.198 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-05-20 11:23:05.033 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 11:23:05.046 [info] > git remote --verbose [14ms]
+2023-05-20 11:23:05.047 [info] > git config --get commit.template [2ms]
+2023-05-20 11:23:05.055 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-05-20 11:23:05.061 [info] > git status -z -uall [2ms]
+2023-05-20 11:23:05.117 [info] > git ls-files --stage -- /home/aluno/Documents/gg/myfirtscommit.txt [2ms]
+2023-05-20 11:23:05.125 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2023-05-20 11:23:05.135 [info] > git show --textconv :myfirtscommit.txt [2ms]
+2023-05-20 11:25:10.524 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 11:25:10.529 [info] > git remote --verbose [6ms]
+2023-05-20 11:25:10.530 [info] > git config --get commit.template [1ms]
+2023-05-20 11:25:10.536 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-05-20 11:25:10.542 [info] > git status -z -uall [2ms]
+2023-05-20 11:25:10.624 [info] > git ls-files --stage -- /home/aluno/Documents/gg/myfirtscommit.txt [1ms]
+2023-05-20 11:25:10.630 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2023-05-20 11:25:10.637 [info] > git show --textconv :myfirtscommit.txt [1ms]
+2023-05-20 11:45:45.423 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 11:45:45.429 [info] > git remote --verbose [6ms]
+2023-05-20 11:45:45.435 [info] > git config --get commit.template [7ms]
+2023-05-20 11:45:45.436 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-05-20 11:45:45.443 [info] > git status -z -uall [2ms]
+2023-05-20 11:45:45.527 [info] > git ls-files --stage -- /home/aluno/Documents/gg/myfirtscommit.txt [2ms]
+2023-05-20 11:45:45.535 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2023-05-20 11:45:45.544 [info] > git show --textconv :myfirtscommit.txt [1ms]
+2023-05-20 11:47:09.966 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 11:47:09.994 [info] > git remote --verbose [28ms]
+2023-05-20 11:47:10.017 [info] > git config --get commit.template [28ms]
+2023-05-20 11:47:10.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [4ms]
+2023-05-20 11:47:10.029 [info] > git rev-list --left-right --count master...oringin/master [2ms]
+2023-05-20 11:47:10.037 [info] > git status -z -uall [2ms]
+2023-05-20 11:47:10.055 [info] > git ls-files --stage -- /home/aluno/Documents/gg/myfirtscommit.txt [1ms]
+2023-05-20 11:47:10.062 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2023-05-20 11:47:10.069 [info] > git show --textconv :myfirtscommit.txt [1ms]
+2023-05-20 12:03:41.179 [info] > git show --textconv :mysupercode [23ms]
+2023-05-20 12:03:41.184 [info] > git ls-files --stage -- /home/aluno/Documents/gg/mysupercode [7ms]
+2023-05-20 12:03:41.405 [info] > git check-ignore -v -z --stdin [5ms]
+2023-05-20 12:03:41.989 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 12:03:42.014 [info] > git remote --verbose [24ms]
+2023-05-20 12:03:42.032 [info] > git config --get commit.template [23ms]
+2023-05-20 12:03:42.033 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [5ms]
+2023-05-20 12:03:42.044 [info] > git rev-list --left-right --count master...oringin/master [2ms]
+2023-05-20 12:03:42.053 [info] > git status -z -uall [2ms]
+2023-05-20 12:08:11.325 [info] > git show --textconv :mysupercode.py [9ms]
+2023-05-20 12:08:11.327 [info] > git ls-files --stage -- /home/aluno/Documents/gg/mysupercode.py [3ms]
+2023-05-20 12:08:11.612 [info] > git check-ignore -v -z --stdin [8ms]
+2023-05-20 12:08:12.183 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 12:08:12.213 [info] > git remote --verbose [31ms]
+2023-05-20 12:08:12.229 [info] > git config --get commit.template [20ms]
+2023-05-20 12:08:12.230 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [3ms]
+2023-05-20 12:08:12.238 [info] > git rev-list --left-right --count master...oringin/master [1ms]
+2023-05-20 12:08:12.247 [info] > git status -z -uall [1ms]
+2023-05-20 12:08:27.560 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 12:08:27.580 [info] > git remote --verbose [20ms]
+2023-05-20 12:08:27.581 [info] > git config --get commit.template [4ms]
+2023-05-20 12:08:27.595 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [3ms]
+2023-05-20 12:08:27.607 [info] > git rev-list --left-right --count master...oringin/master [3ms]
+2023-05-20 12:08:27.616 [info] > git status -z -uall [2ms]
+2023-05-20 12:10:26.762 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 12:10:26.774 [info] > git config --get commit.template [4ms]
+2023-05-20 12:10:26.774 [info] > git remote --verbose [12ms]
+2023-05-20 12:10:26.785 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [3ms]
+2023-05-20 12:10:26.795 [info] > git rev-list --left-right --count master...oringin/master [1ms]
+2023-05-20 12:10:26.808 [info] > git status -z -uall [3ms]
+2023-05-20 12:18:19.352 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 12:18:19.390 [info] > git config --get commit.template [10ms]
+2023-05-20 12:18:19.391 [info] > git remote --verbose [40ms]
+2023-05-20 12:18:19.434 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [9ms]
+2023-05-20 12:18:19.462 [info] > git rev-list --left-right --count master...oringin/master [3ms]
+2023-05-20 12:18:19.485 [info] > git status -z -uall [12ms]
+2023-05-20 12:18:19.490 [info] > git ls-files --stage -- /home/aluno/Documents/gg/mysupercode.py [6ms]
+2023-05-20 12:18:19.509 [info] > git cat-file -s d2cd2aff63dfb2c4bdfaed81c34826b37b5968c4 [5ms]
+2023-05-20 12:18:19.523 [info] > git show --textconv :mysupercode.py [2ms]
+2023-05-20 12:21:19.311 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 12:21:19.339 [info] > git remote --verbose [28ms]
+2023-05-20 12:21:19.353 [info] > git config --get commit.template [19ms]
+2023-05-20 12:21:19.355 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [3ms]
+2023-05-20 12:21:19.366 [info] > git rev-list --left-right --count master...oringin/master [2ms]
+2023-05-20 12:21:19.378 [info] > git status -z -uall [3ms]
+2023-05-20 12:21:19.408 [info] > git ls-files --stage -- /home/aluno/Documents/gg/mysupercode.py [4ms]
+2023-05-20 12:21:19.415 [info] > git cat-file -s d2cd2aff63dfb2c4bdfaed81c34826b37b5968c4 [1ms]
+2023-05-20 12:21:19.426 [info] > git show --textconv :mysupercode.py [1ms]
+2023-05-20 12:22:35.473 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/aluno/Documents/gg/--git-common-dir/config'
+2023-05-20 12:22:35.481 [info] > git remote --verbose [7ms]
+2023-05-20 12:22:35.481 [info] > git config --get commit.template [2ms]
+2023-05-20 12:22:35.491 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [2ms]
+2023-05-20 12:22:35.500 [info] > git rev-list --left-right --count master...oringin/master [2ms]
+2023-05-20 12:22:35.509 [info] > git status -z -uall [2ms]
+2023-05-20 12:22:35.571 [info] > git ls-files --stage -- /home/aluno/Documents/gg/mysupercode.py [1ms]
+2023-05-20 12:22:35.578 [info] > git cat-file -s d2cd2aff63dfb2c4bdfaed81c34826b37b5968c4 [1ms]
+2023-05-20 12:22:35.587 [info] > git show --textconv :mysupercode.py [2ms]

@@ -1,0 +1,10 @@
+2023-05-20 13:10:06.274 [info] Running tunnel CLI
+2023-05-20 13:10:06.275 [info] status Spawning: /usr/share/code/bin/code-tunnel tunnel status
+2023-05-20 13:10:06.334 [error] /usr/share/code/bin/code-tunnel: /lib64/libc.so.6: version `GLIBC_2.29' not found (required by /usr/share/code/bin/code-tunnel)
+/usr/share/code/bin/code-tunnel: /lib64/libc.so.6: version `GLIBC_2.28' not found (required by /usr/share/code/bin/code-tunnel)
+/usr/share/code/bin/code-tunnel: /lib64/libc.so.6: version `GLIBC_2.25' not found (required by /usr/share/code/bin/code-tunnel)
+/usr/share/code/bin/code-tunnel: /lib64/libc.so.6: version `GLIBC_2.18' not found (required by /usr/share/code/bin/code-tunnel)
+/usr/share/code/bin/code-tunnel: /lib64/libc.so.6: version `GLIBC_2.27' not found (required by /usr/share/code/bin/code-tunnel)
+
+2023-05-20 13:10:06.335 [info] status exit(11351): + 1 
+2023-05-20 13:10:06.335 [info] No other tunnel running
